@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.social_media_url = "https://twitter.com/pointfreeco"
 
   s.source = {
-    :git => "https://github.com/jonurq-peya/swift-snapshot-testing.git",
+    :git => "https://github.com/arietis/swift-snapshot-testing.git",
     :tag => s.version
   }
 
